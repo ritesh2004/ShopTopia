@@ -38,8 +38,11 @@ now you are got to go for hacking !!
 
 ## 😒 What You are not able to change? 
 
-
-
+* Don't change the landing page
+* You can change the logo colour, text etc
+* You can add another pages
+* You can change navbar
+* Make it single page on scroll or multipage as you wish
 
 ## 👌 Ask your doubt on Discord
 
